@@ -1,0 +1,4 @@
+﻿This is the story file.
+line 2
+
+line3 ...
